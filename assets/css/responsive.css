@@ -89,6 +89,32 @@
     }
 
 
+    .social i[class*="fa-"] {
+        margin: 0 10px;
+    }
+
+
+    .copyright {
+        font-size: 16px;
+        margin-top: 28px;
+    }
+
+
+    .places-body {
+        font-size: 16px;
+    }
+
+
+    .places-body h3 {
+        font-size: 16px;
+    }
+
+
+    .btn {
+        font-size: 16px;
+    }
+
+
     .s-col-full,
     .s-full-width {
         width: 100%;
